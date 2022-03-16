@@ -1,2 +1,2 @@
 # RemTz.github.io
-my portifolio
+This is my real information for the best of my knowledge.
