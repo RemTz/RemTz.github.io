@@ -1,6 +1,4 @@
-Thanks for downloading this template!
+Thanks for checking this portfolio!
 
-Template Name: DevFolio
-Template URL: https://bootstrapmade.com/devfolio-bootstrap-portfolio-html-template/
-Author: BootstrapMade.com
-License: https://bootstrapmade.com/license/
+Portfolio Name: RemFolio
+Author: Remmy Emmily
